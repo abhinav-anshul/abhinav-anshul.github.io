@@ -10,7 +10,7 @@ body {
   overflow: hidden;
   background-color: white;
   padding: 5px 120px;
-  box-shadow-bottom: red;
+  
 
 }
 
@@ -85,15 +85,6 @@ span.main-name {
    padding-right: 850px;
 
  }
-
- /* p.resume {
-   font-size: 20px;
-   padding-left: 135px;
-   padding-right: 850px;
-   margin-top: auto;
-   margin-bottom: auto;
-   padding-top: 300px;
- } */
 
 p.projects {
   font-size: 50px;
