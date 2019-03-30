@@ -17,6 +17,7 @@ body{
   background: var(--white);
   margin: 15px 100px 15px 100px;
   line-height: 1.4;
+  
 }
 
 .wrapper {
@@ -97,5 +98,8 @@ body{
     grid-gap: 5px;
   }
 
+    body {
+      margin: 15px 100px 15px 100px; 
+    }
   
 }
